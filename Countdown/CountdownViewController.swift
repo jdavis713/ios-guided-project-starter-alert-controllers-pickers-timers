@@ -14,7 +14,19 @@ class CountdownViewController: UIViewController {
         super.viewDidLoad()
 
     }
-
-
+    //MARK: - Actions
+    @IBAction func startButtonPressed(_ sender: Any) {
+        print("Start")
+    }
+    
+    @IBAction func resetButtonPressed(_ sender: Any) {
+        print("Reset")
+    }
+    
+    //MARK: -Properties
+    
+    @IBOutlet var startButton: UIButton!
+    @IBOutlet var timeLabel: UIButton!
+    
 }
 
