@@ -63,7 +63,7 @@
                     </view>
                     <connections>
                         <outlet property="startButton" destination="hUR-hE-che" id="gWS-F8-8c9"/>
-                        <outlet property="timeLabel" destination="Ibw-SB-rZB" id="qW9-TJ-d5R"/>
+                        <outlet property="timeLabel" destination="a2A-bi-cjY" id="P1i-mw-5nA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
